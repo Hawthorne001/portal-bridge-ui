@@ -22,7 +22,7 @@
     "@mui/icons-material": "^5.14.11",
     "@mui/material": "^5.12.1",
     "@tanstack/react-query": "^5.14.2",
-    "dompurify": "^3.0.6",
+    "dompurify": "^3.0.11",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "vite-plugin-static-copy": "^0.17.0"
